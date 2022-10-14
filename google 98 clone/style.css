@@ -1,0 +1,95 @@
+img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+.search {
+    background-color: #eeeeee;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 90%;
+    
+    
+}
+
+.search p {
+    margin: 0 auto;
+}
+
+#searchfield {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 22%;
+}
+
+.specialsearch {
+    background-color: #7ee5da;
+    display: inline-block;
+    margin-left: 5%;
+    text-align: center;
+    width: 34%;
+    padding-bottom: 10px;
+    margin-top: 1px;
+    margin-right: 1.5px;
+    float: left;
+}
+
+.specialsearch a {
+    display: block;
+}
+
+.specialsearch p {
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+
+.links {
+    background-color: #70ccc2;
+    display: inline-block;
+    text-align: center;
+    width: 18%;
+    padding-bottom: 10px;
+    margin-top: 1px;
+    padding-top: 5px;
+    margin-right: 1.5px;
+    float: left;
+}
+
+.links a {
+    display: block;
+    font-size: 13px;
+}
+
+.subscription {
+    background-color: #62b3aa;
+    display: inline-block;
+    margin-top: 1px;
+    width: 37.8%;
+    text-align: center;
+    font-size: 13px;
+    float: left;
+}
+
+.subscription input, .subscription p {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0 auto;
+}
+
+#archive, #subscribebutton {
+    display: inline;
+    margin-bottom: 1px;
+}
+
+#copyright {
+    display: block;
+    font-size: 13px;
+    text-align: center;
+    padding-top: 20px;
+    clear: left;
+}
